@@ -6,7 +6,7 @@
 - Road Trip extension for Google Maps
 
 <div id="badges">
-  <a href="[your-linkedin-URL](http://linkedin.com/in/matthew-cheng4/)">
+  <a href="[http://linkedin.com/in/matthew-cheng4/]">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
