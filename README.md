@@ -1,6 +1,6 @@
-<h2> Hi! I'm Matthew.
+<h2> Hi, I'm Matthew!
 
-🌓 [My Website](https://personal-website-three-iota-31.vercel.app/about)
+⭐ [Website](https://personal-website-three-iota-31.vercel.app/about)
 
 ### Currently Working on:
 - Road Trip extension for Google Maps
