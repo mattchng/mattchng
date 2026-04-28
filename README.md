@@ -4,6 +4,7 @@
 
 ### Currently Working on:
 - Road Trip extension for Google Maps
+- More efficient NYC Subway Tracker
 
 <div id="badges">
   <a href="http://linkedin.com/in/matthew-cheng4/">
